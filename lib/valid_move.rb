@@ -14,3 +14,4 @@ def position_taken?(board, index)
   else
     token = true 
   end
+end
